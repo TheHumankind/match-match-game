@@ -1,0 +1,49 @@
+[
+  {
+    "category": "dev-meme",
+    "images": [
+      "dev-meme-01.jpg",
+      "dev-meme-02.jpg",
+      "dev-meme-03.jpg",
+      "dev-meme-04.jpg",
+      "dev-meme-05.jpg",
+      "dev-meme-06.jpg",
+      "dev-meme-07.jpg",
+      "dev-meme-08.jpg",
+      "dev-meme-09.jpg",
+      "dev-meme-10.jpg",
+      "dev-meme-11.jpg",
+      "dev-meme-12.jpg",
+      "dev-meme-13.jpg",
+      "dev-meme-14.jpg",
+      "dev-meme-15.jpg",
+      "dev-meme-16.jpg",
+      "dev-meme-17.jpg",
+      "dev-meme-18.jpg",
+      "dev-meme-19.jpg",
+      "dev-meme-20.jpg",
+      "dev-meme-21.jpg",
+      "its-you.jpg"
+    ]
+  },
+  {
+    "category": "geometry",
+    "images": [
+      "circle.png",
+      "pentagon.jpg",
+      "squre.jpg",
+      "triangle.jpg",
+      "rhombus.png",
+      "diamond.png",
+      "heart.jpg",
+      "ring.png",
+      "ellipse.png",
+      "cone.png",
+      "trapezium.jpg",
+      "parallelogram.jpg",
+      "cillinder.jpg",
+      "polygon-triangle.jpg",
+      "its-you.jpg"
+    ]
+  }
+]
