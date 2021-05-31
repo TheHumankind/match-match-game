@@ -19,10 +19,6 @@
       "dev-meme-15.jpg",
       "dev-meme-16.jpg",
       "dev-meme-17.jpg",
-      "dev-meme-18.jpg",
-      "dev-meme-19.jpg",
-      "dev-meme-20.jpg",
-      "dev-meme-21.jpg",
       "its-you.jpg"
     ]
   },
@@ -43,7 +39,10 @@
       "parallelogram.jpg",
       "cillinder.jpg",
       "polygon-triangle.jpg",
-      "its-you.jpg"
+      "its-you.jpg",
+      "dodecahedron.svg",
+      "irregular-polyhedron.png",
+      "pentagonal-frustum.png"
     ]
   }
 ]
